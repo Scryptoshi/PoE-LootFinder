@@ -38,6 +38,7 @@ NOTE: It will NOT pick up the item. You still will have to click your left mouse
 
 IMPORTANT: The script moves your mouse positioning, so you have be aware of the environment around you. If the loot is over or under an obstable you need to relocate to where the character can reach by walking to it. It will take some time for you to understand the process. 
  
+# FAQ
 
 # Is it safe to use?
 Yes. If you have concerned, take a look at source code.
@@ -51,10 +52,11 @@ Technically this script is not an automate process to scam the game or benefit m
 - This project is made for academic pursuit and I am open to sugestions on how to make it better.
 
 
-Built With
+# Built With
 Autoit
-Licensing
-This project is licensed under the MIT License - see the LICENSE.md file for details
+
+# Licensing
+This is free and unencumbered software released into the public domain. See the attached [LICENSING] document
 
 # Contributing
 https://www.patreon.com/scryptoshi
