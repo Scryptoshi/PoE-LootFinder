@@ -60,4 +60,4 @@ This is free and unencumbered software released into the public domain. See the 
 
 # Contributing
 https://www.patreon.com/scryptoshi
-Help me out so i can help you and the world out!
+- Help me out so i can help you and the world out!
