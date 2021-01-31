@@ -1,3 +1,4 @@
 # These are supported funding model platforms
-
-patreon: # https://www.patreon.com/scryptoshi
+github: [scryptoshi]
+patreon: scryptoshi
+custom: ["https://www.patreon.com/scryptoshi"]
