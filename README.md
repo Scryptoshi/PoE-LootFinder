@@ -41,7 +41,7 @@ IMPORTANT: The script moves your mouse positioning, so you have be aware of the 
 # FAQ
 
 # Is it safe to use?
-Yes. If you have concerned, take a look at source code.
+Yes. If you have concers, take a look at source code.
 
 # Does this violate Path of Exile's Terms of Service?
 Technically this script is not an automate process to scam the game or benefit more from others. It will only allocate your mouse pointer where you want it be. It could be seen as good or bad. In my view "A function or script exists when it adds or eliminates 1 extra step to facilitate life." What i am doing here is taking one step into problem solving a much desiered action that most PoE players would love to have. This project is the best creative solution i could come up before "automation" is engaged. Ultimatetly "GGG - Path of Exile" decides. 
