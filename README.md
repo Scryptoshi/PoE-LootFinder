@@ -63,6 +63,6 @@ https://www.patreon.com/scryptoshi
 - Help me out so i can help you and the world out!
 
 # Annonimous Donations
-- BTC  34wokgdduv9FDyh1Mcs45gunFx7GL1heoU
-- ETH  0x70e72D6A7701cd4DafD309F058BADBC3b35cD4dF
-- LTC  MWNi4URLquAdM1j4fUFpHsvfxotZHkUMHu
+- BTC - 34wokgdduv9FDyh1Mcs45gunFx7GL1heoU
+- ETH - 0x70e72D6A7701cd4DafD309F058BADBC3b35cD4dF
+- LTC - MWNi4URLquAdM1j4fUFpHsvfxotZHkUMHu
