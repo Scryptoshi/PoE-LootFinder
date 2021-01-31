@@ -48,19 +48,16 @@ Technically this script is not an automated process to scam the game or benefit 
 
 # By the way,
 - I am not responsible if the use of this script will result in action from Path of Exile. Use at your own risk.
-- I would love to have your support and feedback so we can collective continue to take one step forward in solving the taxing task that is to "maps loot handling". 
+- I would love to have your support and feedback so we can collectively continue to take one step forward in solving the taxing task that is to "maps loot handling". 
 - This project is made for academic pursuit and I am open to suggestions on how to make it better.
 
-
-# Built With
-Autoit
 
 # Licensing
 This is free and unencumbered software released into the public domain. See the attached [LICENSING] document.
 
 # Contributing
 https://www.patreon.com/scryptoshi
-- Help me out so i can help you and the world out!
+- Help me out so I can help you and the world out!
 
 # Anonymous Donations
 - BTC - 34wokgdduv9FDyh1Mcs45gunFx7GL1heoU
