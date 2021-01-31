@@ -11,7 +11,7 @@ You will have the option to change the color of the loot font text and the hotke
 
 
 # Getting Started
-1. Download the latest release
+1. Download the <a href="https://github.com/Scryptoshi/PoE-LootFinder/releases/tag/v1.1">latest release</a> - [PoE-LootFinder v1.1]
 
 2. Load up the provided [PoE-LootFinder.filter] document to your PoE Filter folder or create your own filter document than add it to the loot filter folder. 
 - You can find your filter folder by going to: Options > UI > Show Folder, in your PoE game.  
