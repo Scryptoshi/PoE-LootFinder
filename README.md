@@ -1,21 +1,21 @@
 # PoE-LootFinder
-Manual loot finder for [Path of Exile]
+Loot finder for [Path of Exile]
 
 This script will bring the mouse over a piece of loot for you whenever you hit the hotkey! 
-It does not automaticaly "find and collects" the loot. It searched the coordinates on your screen resolution for a color pixel which you will need to configure from your loot filter of choice. 
+It does not automaticaly "find and collects" the loot. It searched the coordinates on your screen resolution for a pixel color of your choice which you will need to configure. 
 
-By using a loot filter you can determine the specific loot that you are after, by configuring the [TEXT] NOT the border or background, has to be the [TEXT] to have the same color.
+By using a any loot filter you can determine the specific loot that you are after. By configuring the [TEXT] NOT the border or background, has to be the [TEXT] to have the same color, you can narrow down to the loot that you are after.
 I have provided the file: [PoE-LootFinder] which will come preconfigured to my color of choice.
 
-You will have the option to change the color and the hotkey you want to use. 
+You will have the option to change the color of the loot font text and the hotkey you want to use on the [config] file. 
 
 
 # Getting Started
 1. Download the latest release
 
-2. Load up the provided [PoE-LootFinder] document to your PoE Filter folder. 
-- You can find your filter folder by going to: Opetions > UI > Show Folder in your PoE game.  
-- You can also go to https://www.filterblade.xyz/ to make your own filter file. 
+2. Load up the provided [PoE-LootFinder.filter] document to your PoE Filter folder or create your own filter document than add it to the loot filter folder. 
+- You can find your filter folder by going to: Options > UI > Show Folder, in your PoE game.  
+- You can go to your own or https://www.filterblade.xyz/ to make your personal filter file. 
 
 3. Run PoE-LootFinder.exe
 - You are ready to go!
